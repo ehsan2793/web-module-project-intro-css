@@ -1,0 +1,116 @@
+/** @format */
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap");
+* {
+	margin: 0px;
+	padding: 0px;
+}
+main {
+	text-align: center;
+	font-family: "Roboto Mono", monospac;
+	overflow: hidden;
+}
+.top a {
+	display: inline-block;
+}
+.bot a {
+	display: inline-block;
+}
+
+.top-left,
+.bot-left {
+	background-color: #ff764e;
+	color: white;
+	text-decoration: none;
+	padding: 0.6em;
+	width: 15vw;
+	font-size: 22px;
+	border-radius: 25px;
+	margin: 100px;
+}
+.top-mid,
+.bot-mid {
+	background-color: #5ed3eb;
+	color: white;
+	text-decoration: none;
+	padding: 0.6em;
+	width: 15vw;
+	font-size: 22px;
+	border-radius: 25px;
+	margin: 100px;
+}
+.top-right,
+.bot-right {
+	background-color: #ffcd69;
+	color: white;
+	text-decoration: none;
+	padding: 0.6em;
+	width: 15vw;
+	font-size: 22px;
+	border-radius: 25px;
+	margin: 100px;
+}
+footer {
+	background-color: #f9e7dc;
+}
+.top-p {
+	background-color: #dfaf91;
+	color: white;
+}
+.img-title img {
+	height: 30%;
+	width: 30%;
+	overflow: hidden;
+	margin-left: -75%;
+	border-radius: 999px;
+	height: 20%;
+	width: 20%;
+}
+.img-title {
+	display: inline-block;
+}
+.heading {
+	margin-top: -17%;
+	margin-bottom: 5%;
+}
+h1 {
+	font-family: "Chelsea Market", cursive;
+	font-size: 50px;
+}
+.fire-picture {
+	margin: 20px;
+}
+.fire-picture img {
+	height: 10%;
+	width: 10%;
+}
+.fire-picture p {
+	height: auto;
+	width: 30%;
+	margin-left: 35%;
+}
+.bus-picture {
+	margin: 20px;
+}
+.bus-picture img {
+	height: 10%;
+	width: 10%;
+}
+.bus-picture p {
+	height: auto;
+	width: 30%;
+	margin-left: 35%;
+}
+#footer-img img {
+	width: 100%;
+	height: 30vh;
+}
+p {
+	padding: 10px;
+}
+.first-p,
+.second-p {
+	width: 63%;
+	margin-left: 22%;
+}
