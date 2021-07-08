@@ -9,6 +9,7 @@
 main {
 	text-align: center;
 	font-family: "Roboto Mono", monospac;
+	overflow: hidden;
 }
 .top a {
 	display: inline-block;
@@ -87,7 +88,7 @@ h1 {
 .fire-picture p {
 	height: auto;
 	width: 30%;
-	margin-left: 48vh;
+	margin-left: 35%;
 }
 .bus-picture {
 	margin: 20px;
@@ -99,7 +100,7 @@ h1 {
 .bus-picture p {
 	height: auto;
 	width: 30%;
-	margin-left: 48vh;
+	margin-left: 35%;
 }
 #footer-img img {
 	width: 100%;
@@ -111,5 +112,5 @@ p {
 .first-p,
 .second-p {
 	width: 63%;
-	margin-left: 22vh;
+	margin-left: 22%;
 }
